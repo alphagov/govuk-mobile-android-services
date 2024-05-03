@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "govuk-mobile-android-services"
 include(":app")
- 
+include(":services")
