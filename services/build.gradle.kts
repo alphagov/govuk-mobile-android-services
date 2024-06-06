@@ -9,6 +9,7 @@ plugins {
 sonar {
     properties {
         property("sonar.projectName", "govuk-mobile-android-services")
+        property("sonar.projectVersion", "0.0.1")
         property("sonar.projectKey", "alphagov_govuk-mobile-android-services")
         property("sonar.organization", "alphagov")
         property("sonar.host.url", "https://sonarcloud.io")
